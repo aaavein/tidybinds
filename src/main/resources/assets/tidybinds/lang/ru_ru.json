@@ -26,7 +26,7 @@
   "tidybinds.configuration.section.tidybinds.client.toml": "§lTidy Binds",
   "tidybinds.configuration.section.tidybinds.client.toml.title": "§lTidy Binds",
   "tidybinds.configuration.show_hidden_keys": "Показ скрытых клавиш",
-  "tidybinds.configuration.show_hidden_keys.tooltip": "Показывает скрытые клавиши в категории §7Hidden Keys§r.",
+  "tidybinds.configuration.show_hidden_keys.tooltip": "Показывает скрытые клавиши в категории §7Скрытые клавиши§r.",
   "tidybinds.configuration.title": "§lTidy Binds",
   "key.categories.tidybinds.hidden": "§cСкрытые клавиши"
 }

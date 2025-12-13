@@ -6,7 +6,9 @@
   "mixins": [
   ],
   "client": [
-    "KeyBindsListMixin"
+    "KeyBindsListMixin",
+    "KeyMappingAccessor",
+    "KeyMappingSameMixin"
   ],
   "injectors": {
     "defaultRequire": 1
